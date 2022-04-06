@@ -1,0 +1,10 @@
+{
+    "ignore": [
+      "README.md"
+    ],
+    "commands": {
+    },
+    "hooks": {
+      "post-unpack": "npm i"
+    }
+  }
